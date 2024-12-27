@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My website
+title: 한기용 유니버스
 
 # Your name to show in the footer
-author: Some Person
+author: Keeyong Han
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -21,10 +21,11 @@ author: Some Person
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Contents:
+    - Startup: "startup"
+    - Career: "career"
+    - Everything Else: "else"
+
 
 ################
 # --- Logo --- #
@@ -50,15 +51,14 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "keeyong@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  facebook: keeyong.han
+  github: keeyong
+  linkedin: keeyonghan
+  youtube: "@keeyonguniverse"
 #  medium: yourname
+#  patreon: DeanAttali
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
 #  xing: yourname
